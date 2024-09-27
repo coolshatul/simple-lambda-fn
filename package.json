@@ -1,0 +1,14 @@
+{
+  "name": "simple-todo",
+  "version": "1.0.0",
+  "description": "AWS Lambda function using Axios",
+  "main": "handler.js",
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "serverless-offline": "^14.3.2"
+  }
+}
